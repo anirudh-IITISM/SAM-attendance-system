@@ -67,5 +67,5 @@ The model recognizes the person and marks his/her attendance while recognizing p
 
 ## Due to lack of time currently the attendance data is stored in a CSV file which can be accesed. Further the down the line I intend to use SQL as the database for greater functionality.
 
-## Thank you IBY for giving me this wonderfull opportunity of building something which can improve the education system. Working on this project has made me even more excited to actually work at IBY and change the education world.
+## On the ending note I would like to say Thank you IBY for giving me this wonderfull opportunity of building something which can improve the education system. Working on this project has made me even more excited to actually work at IBY and change the education world. 
 
