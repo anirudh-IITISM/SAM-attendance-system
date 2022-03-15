@@ -13,6 +13,7 @@ An innovative way to mark attenence using face recognition.
 
 
 ## Problem Statement
+
 Online education, though the need of the hour, has also given rise to a lot of instances of students missing classes and cheating. So, we need a robust and innovative system for attendance marking, which is altered for this particular situation.
 
 ## Our solution
@@ -57,6 +58,7 @@ python app.py
 
 ## Demo
 The model recognizes the person and marks his/her attendance while recognizing possible fakes like images.
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80922064/158342796-02ddddbc-1c04-4fbf-9597-fd0db2f4717c.gif)
 
 
 ## Important Links
