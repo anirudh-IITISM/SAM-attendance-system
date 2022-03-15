@@ -23,6 +23,7 @@ The model first predicts if it is a real human. If it is a real human face then 
 The siamese network compares photo with all the photo using cosine similarity. If the similarity is above a certain threshold then the person is marked present and the date and time is also noted
 This data in turn will be saved as a csv file for future reference.
 All of this is integrated to a full stack webiste that can be accessed on the local host.
+## Website is built on HTML, CSS for frontend. Flask(python) for backend and Adobe illustrator for designing some parts.
 
 
 ## Machine Learning
@@ -63,7 +64,7 @@ This will lead you to the website from where you can click " Try for Free" and u
 The model recognizes the person and marks his/her attendance while recognizing possible fakes like images.
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80922064/158342796-02ddddbc-1c04-4fbf-9597-fd0db2f4717c.gif)
 
-## Website is built on HTML, CSS for frontend. Flask(python) for backend and Adobe illustrator for designing some parts.
+
 ## Due to lack of time currently the attendance data is stored in a CSV file which can be accesed. Further the down the line I intend to use SQL as the database for greater functionality.
 
 ## Thank you IBY for giving me this wonderfull opportunity of building something which can improve the education system. Working on this project has made me even more excited to actually work at IBY and change the education world.
